@@ -1,0 +1,1 @@
+# LaunchPad_20-pin_BoosterPack_KiCAD_Template
